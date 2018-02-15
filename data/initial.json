@@ -1,0 +1,21 @@
+{
+  "inventory": {
+    "cream": {"written": "Cream", "itemQty": 10, "itemPrice": 0.25},
+    "sugar": {"written": "Sugar", "itemQty": 10, "itemPrice": 0.25},
+    "chocolate": {"written": "Chocolate", "itemQty": 10, "itemPrice": 0.75},
+    "espresso": {"written": "Espresso", "itemQty": 10, "itemPrice": 0.75},
+    "creamCheese": {"written": "Cream Cheese", "itemQty": 10, "itemPrice": 0.35},
+    "coffee": {"written": "Coffee", "itemQty": 10, "itemPrice": 1.10},
+    "whippedCream": {"written": "Whipped Cream", "itemQty": 10, "itemPrice": 1.00},
+    "vanilla": {"written": "Vanilla", "itemQty": 10, "itemPrice": 0.90},
+    "fruit": {"written": "Fruit", "itemQty": 10, "itemPrice": 0.35}
+  },
+  "cakes": {
+    "Chocolate Cake":{"chocolate": 3, "sugar": 1, "cream": 1},
+    "Angel Cake":{"espresso": 3,"sugar": 1, "cream": 1},
+    "Cheese Cake":{"coffee": 2, "creamCheese": 1},
+    "Coffee Cake":{"coffee": 3},
+    "Gentilly Cake":{"coffee": 1, "vanilla": 1, "creamCheese": 1, "whippedCream": 1},
+    "Marble Cake":{"espresso": 2, "creamCheese": 1, "fruit": 1}
+  }
+}
